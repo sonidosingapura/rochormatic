@@ -30,7 +30,6 @@
     "sound/voodoo/Voodoo_01.wav",
     "sound/voodoo/Voodoo_02.wav"
   ],
-  "const": "const.wav",
-  "test": "test.wav"
+  "const": "const.wav"
 }
 
