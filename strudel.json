@@ -1,0 +1,36 @@
+{
+  "_base": "https://raw.githubusercontent.com/sonidosingapura/rochormatic/master/",
+  "karmacoma": [
+    "sound/karma/Karmacoma01.wav",
+    "sound/karma/Karmacoma02.wav",
+    "sound/karma/Karmacoma03.wav",
+    "sound/karma/Karmacoma04.wav",
+    "sound/karma/Karmacoma05.wav"
+  ],
+  "kompira": [
+    "sound/kompira/Kompira_Vocal01.wav",
+    "sound/kompira/Kompira_Vocal02.wav",
+    "sound/kompira/Kompira_Vocal03.wav",
+    "sound/kompira/Kompira_Vocal04.wav",
+    "sound/kompira/Kompira_Vocal05.wav",
+    "sound/kompira/Kompira_sanshu.wav",
+    "sound/kompira/Kompira_zozusan.wav",
+    "sound/kompira/Kompira_mawareba.wav",
+    "sound/kompira/Kompira_ichido.wav"
+  ],
+  "minami": [
+    "sound/minami/spinningbirdkick.wav",
+    "sound/minami/roska.wav"
+  ],
+  "portis": [
+    "sound/portis/Portis01.wav"
+  ],
+  "voodoo": [
+    "sound/voodoo/voodoopeople.wav",
+    "sound/voodoo/Voodoo_01.wav",
+    "sound/voodoo/Voodoo_02.wav"
+  ],
+  "const": "const.wav",
+  "test": "test.wav"
+}
+
