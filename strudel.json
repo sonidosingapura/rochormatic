@@ -30,6 +30,14 @@
     "sound/voodoo/Voodoo_01.wav",
     "sound/voodoo/Voodoo_02.wav"
   ],
+  "ritachao":[
+    "sound/ritachao/ritachao_vocal_01.wav",
+    "sound/ritachao/ritachao_vocal_01_01.wav",
+    "sound/ritachao/ritachao_vocal_01_02.wav",
+    "sound/ritachao/ritachao_vocal_01_03.wav",
+    "sound/ritachao/ritachao_vocal_01_04.wav",
+    "sound/ritachao/ritachao_vocal_01_05.wav"
+  ],
   "const": "const.wav"
 }
 
