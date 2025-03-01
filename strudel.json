@@ -36,7 +36,16 @@
     "sound/ritachao/ritachao_vocal_01_02.wav",
     "sound/ritachao/ritachao_vocal_01_03.wav",
     "sound/ritachao/ritachao_vocal_01_04.wav",
-    "sound/ritachao/ritachao_vocal_01_05.wav"
+    "sound/ritachao/ritachao_vocal_01_05.wav",
+    "sound/ritachao/ritachao_vocal_01_06.wav",
+    "sound/ritachao/ritachao_vocal_01_07.wav",
+    "sound/ritachao/ritachao_vocal_01_08.wav",
+    "sound/ritachao/ritachao_vocal_01_09.wav",
+    "sound/ritachao/ritachao_vocal_01_10.wav",
+    "sound/ritachao/ritachao_vocal_02.wav",
+    "sound/ritachao/ritachao_vocal_02_01.wav",
+    "sound/ritachao/ritachao_vocal_03.wav",
+    "sound/ritachao/ritachao_vocal_04.wav"  
   ],
   "const": "const.wav"
 }
