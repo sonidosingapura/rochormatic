@@ -1,5 +1,8 @@
 {
   "_base": "https://raw.githubusercontent.com/sonidosingapura/rochormatic/master/",
+  "army":[
+     "sound/army/armyofme_01.wav"
+  ],
   "pete": [
     "sound/pete/totay_01.wav"
   ],
