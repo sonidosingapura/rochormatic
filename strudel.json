@@ -1,5 +1,8 @@
 {
   "_base": "https://raw.githubusercontent.com/sonidosingapura/rochormatic/master/",
+  "pete": [
+    "sound/pete/totay_01.wav"
+  ],
   "karmacoma": [
     "sound/karma/Karmacoma01.wav",
     "sound/karma/Karmacoma02.wav",
