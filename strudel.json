@@ -1,5 +1,8 @@
 {
   "_base": "https://raw.githubusercontent.com/sonidosingapura/rochormatic/master/",
+  "breaks":[
+    "sound/breaks/sayitloud_01.wav"
+  ],
   "surfin":[
     "sound/surfin/surfin_01.wav"
   ],
