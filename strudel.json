@@ -1,7 +1,12 @@
 {
   "_base": "https://raw.githubusercontent.com/sonidosingapura/rochormatic/master/",
+  "heather":[
+    "sound/heather/heather_01.wav"
+  ]
+  ,
   "breaks":[
-    "sound/breaks/sayitloud_01.wav"
+    "sound/breaks/sayitloud_01.wav",
+    "sound/breaks/topic_01.wav"
   ],
   "surfin":[
     "sound/surfin/surfin_01.wav"
