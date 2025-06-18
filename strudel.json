@@ -1,16 +1,24 @@
 {
   "_base": "https://raw.githubusercontent.com/sonidosingapura/rochormatic/master/",
+  "aonetwo":[
+     "sound/aonetwo/aonetwo.wav"
+  ],
+   "golden":[
+     "sound/golden/golden.wav"
+  ],
   "heather":[
     "sound/heather/heather_01.wav",
     "sound/heather/heather_02.wav",
     "sound/heather/heather_03.wav"
-    
-  ]
-  ,
+  ],
   "breaks":[
     "sound/breaks/sayitloud_01.wav",
-    "sound/breaks/topic_01.wav"
+    "sound/breaks/topic_01.wav",
+    "sound/breaks/zeus.wav"
   ],
+  "oliver":[
+    "sound/oliver/oliver.wav",
+  ]
   "surfin":[
     "sound/surfin/surfin_01.wav"
   ],
