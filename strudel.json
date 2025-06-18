@@ -1,7 +1,8 @@
 {
   "_base": "https://raw.githubusercontent.com/sonidosingapura/rochormatic/master/",
   "aonetwo":[
-     "sound/aonetwo/aonetwo.wav"
+     "sound/aonetwo/aonetwo.wav",
+     "sound/aonetwo/aonetwo_clean.wav"     
   ],
    "golden":[
      "sound/golden/golden.wav"
