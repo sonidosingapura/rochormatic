@@ -1,5 +1,12 @@
 {
   "_base": "https://raw.githubusercontent.com/sonidosingapura/rochormatic/master/",
+  "yosui":[
+    "sound/yosui/yosui_01.wav",
+    "sound/yosui/yosui_02.wav",
+    "sound/yosui/yosui_03.wav",
+    "sound/yosui/yosui_04.wav",
+    "sound/yosui/yosui_05.wav"
+  ],  
   "aonetwo":[
      "sound/aonetwo/aonetwo.wav",
      "sound/aonetwo/aonetwo_clean.wav"     
