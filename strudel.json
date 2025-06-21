@@ -1,12 +1,12 @@
 {
   "_base": "https://raw.githubusercontent.com/sonidosingapura/rochormatic/master/",
   "gndym":[
-    "sound/yosui/ff_land01.wav",
-    "sound/yosui/ff_land02.wav",
-    "sound/yosui/ff_land03.wav",
-    "sound/yosui/furaipan.wav",
-    "sound/yosui/korewa.wav",
-    "sound/yosui/panda.wav"
+    "sound/gndym/ff_land01.wav",
+    "sound/gndym/ff_land02.wav",
+    "sound/gndym/ff_land03.wav",
+    "sound/gndym/furaipan.wav",
+    "sound/gndym/korewa.wav",
+    "sound/gndym/panda.wav"
   ],
   "yosui":[
     "sound/yosui/yosui_01.wav",
