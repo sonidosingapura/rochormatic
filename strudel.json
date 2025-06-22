@@ -6,7 +6,8 @@
     "sound/gndym/ff_land03.wav",
     "sound/gndym/furaipan.wav",
     "sound/gndym/korewa.wav",
-    "sound/gndym/panda.wav"
+    "sound/gndym/panda.wav",
+    "sound/gndym/korewa_nan.wav"
   ],
   "yosui":[
     "sound/yosui/yosui_01.wav",
