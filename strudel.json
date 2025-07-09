@@ -1,9 +1,9 @@
 {
   "_base": "https://raw.githubusercontent.com/sonidosingapura/rochormatic/master/",
   "roni":[
-    "sound/roni/Reprazent_step_01.wav",
-    "sound/roni/Reprazent_step_02.wav",
-    "sound/roni/Reprazent_step_03.wav"
+    "sound/roni/Reprazent_step2_01.wav",
+    "sound/roni/Reprazent_step2_02.wav",
+    "sound/roni/Reprazent_step2_03.wav"
   ],
   "gndym":[
     "sound/gndym/ff_land01.wav",
