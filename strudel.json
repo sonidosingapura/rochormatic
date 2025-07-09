@@ -58,12 +58,13 @@
     "sound/kompira/Kompira_Vocal01.wav",
     "sound/kompira/Kompira_Vocal02.wav",
     "sound/kompira/Kompira_Vocal03.wav",
-    "sound/kompira/Kompira_Vocal04.wav",
-    "sound/kompira/Kompira_Vocal05.wav",
+    "sound/kompira/Kompira_funefune.wav",
+    "sound/kompira/Kompira_zozusan2.wav",
     "sound/kompira/Kompira_sanshu.wav",
     "sound/kompira/Kompira_zozusan.wav",
     "sound/kompira/Kompira_mawareba.wav",
-    "sound/kompira/Kompira_ichido.wav"
+    "sound/kompira/Kompira_ichido.wav",
+    "sound/kompira/Kompira_meibutsu.wav",
   ],
   "minami": [
     "sound/minami/spinningbirdkick.wav",
